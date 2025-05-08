@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormYonetici.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|solutionrelative:AnaokuluOgrenciFormu\\FormYonetici.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\anaokuluogrenciformu\\loginpanel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|solutionrelative:anaokuluogrenciformu\\loginpanel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormYemekhane.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|solutionrelative:AnaokuluOgrenciFormu\\FormYemekhane.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormAktivite.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|solutionrelative:AnaokuluOgrenciFormu\\FormAktivite.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormAktivite.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|solutionrelative:AnaokuluOgrenciFormu\\FormAktivite.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormVeli.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|solutionrelative:AnaokuluOgrenciFormu\\FormVeli.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormVeli.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|solutionrelative:AnaokuluOgrenciFormu\\FormVeli.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormYonetici.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|solutionrelative:AnaokuluOgrenciFormu\\FormYonetici.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormOgretmen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|solutionrelative:AnaokuluOgrenciFormu\\FormOgretmen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\LoginPanel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|solutionrelative:AnaokuluOgrenciFormu\\LoginPanel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormVeli.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|solutionrelative:AnaokuluOgrenciFormu\\FormVeli.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormOdeme.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|solutionrelative:AnaokuluOgrenciFormu\\FormOdeme.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormOdeme.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|solutionrelative:AnaokuluOgrenciFormu\\FormOdeme.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\Module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|solutionrelative:AnaokuluOgrenciFormu\\Module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormVeli.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|solutionrelative:AnaokuluOgrenciFormu\\FormVeli.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormYemekhane.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|solutionrelative:AnaokuluOgrenciFormu\\FormYemekhane.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormKatilimEkle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{48CC2EA1-D9A6-4DFC-A126-55AC494BBB37}|AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu.vbproj|solutionrelative:AnaokuluOgrenciFormu\\FormKatilimEkle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPanel.vb",
+              "DocumentMoniker": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\LoginPanel.vb",
+              "RelativeDocumentMoniker": "AnaokuluOgrenciFormu\\LoginPanel.vb",
+              "ToolTip": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\LoginPanel.vb",
+              "RelativeToolTip": "AnaokuluOgrenciFormu\\LoginPanel.vb",
+              "ViewState": "AgIAADQAAAAAAAAAAAAjwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-06T14:16:39.851Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAktivite.vb",
+              "DocumentMoniker": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormAktivite.vb",
+              "RelativeDocumentMoniker": "AnaokuluOgrenciFormu\\FormAktivite.vb",
+              "ToolTip": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormAktivite.vb",
+              "RelativeToolTip": "AnaokuluOgrenciFormu\\FormAktivite.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-05T16:40:23.671Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormYemekhane.vb",
+              "DocumentMoniker": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormYemekhane.vb",
+              "RelativeDocumentMoniker": "AnaokuluOgrenciFormu\\FormYemekhane.vb",
+              "ToolTip": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormYemekhane.vb",
+              "RelativeToolTip": "AnaokuluOgrenciFormu\\FormYemekhane.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwAMAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-06T15:23:15.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAktivite.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormAktivite.Designer.vb",
+              "RelativeDocumentMoniker": "AnaokuluOgrenciFormu\\FormAktivite.Designer.vb",
+              "ToolTip": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormAktivite.Designer.vb",
+              "RelativeToolTip": "AnaokuluOgrenciFormu\\FormAktivite.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-08T15:31:30.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormYonetici.vb",
+              "DocumentMoniker": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormYonetici.vb",
+              "RelativeDocumentMoniker": "AnaokuluOgrenciFormu\\FormYonetici.vb",
+              "ToolTip": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormYonetici.vb",
+              "RelativeToolTip": "AnaokuluOgrenciFormu\\FormYonetici.vb",
+              "ViewState": "AgIAADIAAAAAAAAAAAAjwDwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-06T17:13:41.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormYonetici.vb [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormYonetici.vb",
+              "RelativeDocumentMoniker": "AnaokuluOgrenciFormu\\FormYonetici.vb",
+              "ToolTip": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormYonetici.vb [Tasar\u0131m]",
+              "RelativeToolTip": "AnaokuluOgrenciFormu\\FormYonetici.vb [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-06T15:39:11.201Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormVeli.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormVeli.Designer.vb",
+              "RelativeDocumentMoniker": "AnaokuluOgrenciFormu\\FormVeli.Designer.vb",
+              "ToolTip": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormVeli.Designer.vb",
+              "RelativeToolTip": "AnaokuluOgrenciFormu\\FormVeli.Designer.vb",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAjwBwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-08T14:49:52.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormVeli.resx",
+              "DocumentMoniker": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormVeli.resx",
+              "RelativeDocumentMoniker": "AnaokuluOgrenciFormu\\FormVeli.resx",
+              "ToolTip": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormVeli.resx",
+              "RelativeToolTip": "AnaokuluOgrenciFormu\\FormVeli.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-08T14:49:57.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormOgretmen.vb [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormOgretmen.vb",
+              "RelativeDocumentMoniker": "AnaokuluOgrenciFormu\\FormOgretmen.vb",
+              "ToolTip": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormOgretmen.vb [Tasar\u0131m]",
+              "RelativeToolTip": "AnaokuluOgrenciFormu\\FormOgretmen.vb [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-07T12:42:44.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginPanel.vb [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\LoginPanel.vb",
+              "RelativeDocumentMoniker": "AnaokuluOgrenciFormu\\LoginPanel.vb",
+              "ToolTip": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\LoginPanel.vb [Tasar\u0131m]",
+              "RelativeToolTip": "AnaokuluOgrenciFormu\\LoginPanel.vb [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-06T19:14:45.748Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormVeli.vb [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormVeli.vb",
+              "RelativeDocumentMoniker": "AnaokuluOgrenciFormu\\FormVeli.vb",
+              "ToolTip": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormVeli.vb [Tasar\u0131m]",
+              "RelativeToolTip": "AnaokuluOgrenciFormu\\FormVeli.vb [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-06T18:09:04.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormOdeme.vb",
+              "DocumentMoniker": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormOdeme.vb",
+              "RelativeDocumentMoniker": "AnaokuluOgrenciFormu\\FormOdeme.vb",
+              "ToolTip": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormOdeme.vb",
+              "RelativeToolTip": "AnaokuluOgrenciFormu\\FormOdeme.vb",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwCEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-06T20:37:13.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormOdeme.vb",
+              "DocumentMoniker": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormOdeme.vb",
+              "RelativeDocumentMoniker": "AnaokuluOgrenciFormu\\FormOdeme.vb",
+              "ToolTip": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormOdeme.vb",
+              "RelativeToolTip": "AnaokuluOgrenciFormu\\FormOdeme.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-06T20:35:23.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\Module1.vb",
+              "RelativeDocumentMoniker": "AnaokuluOgrenciFormu\\Module1.vb",
+              "ToolTip": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\Module1.vb",
+              "RelativeToolTip": "AnaokuluOgrenciFormu\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-06T18:39:52.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormVeli.vb",
+              "DocumentMoniker": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormVeli.vb",
+              "RelativeDocumentMoniker": "AnaokuluOgrenciFormu\\FormVeli.vb",
+              "ToolTip": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormVeli.vb",
+              "RelativeToolTip": "AnaokuluOgrenciFormu\\FormVeli.vb",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-06T15:19:18.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormYemekhane.vb [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormYemekhane.vb",
+              "RelativeDocumentMoniker": "AnaokuluOgrenciFormu\\FormYemekhane.vb",
+              "ToolTip": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormYemekhane.vb [Tasar\u0131m]",
+              "RelativeToolTip": "AnaokuluOgrenciFormu\\FormYemekhane.vb [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-06T15:22:16.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormKatilimEkle.vb",
+              "DocumentMoniker": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormKatilimEkle.vb",
+              "RelativeDocumentMoniker": "AnaokuluOgrenciFormu\\FormKatilimEkle.vb",
+              "ToolTip": "C:\\Users\\omerf\\OneDrive\\Masa\u00FCst\u00FC\\AnaokuluOgrenciFormu\\AnaokuluOgrenciFormu\\FormKatilimEkle.vb",
+              "RelativeToolTip": "AnaokuluOgrenciFormu\\FormKatilimEkle.vb",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-05T17:27:05.46Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
